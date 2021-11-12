@@ -1,2 +1,1 @@
-# ballooon-buster-2
-yes
+# Project-Template BB2
